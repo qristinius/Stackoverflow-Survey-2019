@@ -69,6 +69,7 @@ Each file contains 3 large sections, namely:
 •	Data processing with a certain classification This section deals directly with data processing
 
 ℹ️ About me:
+
 Linkedin : https://www.linkedin.com/in/kristine-dzneladze-a81907230/
 
 Facebook : https://www.facebook.com/profile.php?id=100013187229623
