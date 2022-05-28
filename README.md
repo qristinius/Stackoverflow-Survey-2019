@@ -1,4 +1,5 @@
 Analysis of Developer Survey (stackoverflow)
+
 💡 To better understand and navigate the code, it is recommended to download it and run it on your computer
 Table of Contents
 Data sources
