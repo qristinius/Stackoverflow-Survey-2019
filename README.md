@@ -43,6 +43,6 @@ Create functions for data processing In this section we will create the function
 Data processing with a certain classification This section deals directly with data processing
 
 ℹ️ About me:
-Linkedin : 
+Linkedin : https://www.linkedin.com/in/kristine-dzneladze-a81907230/
 Facebook : https://www.facebook.com/profile.php?id=100013187229623
-Github : 
+Github : https://github.com/qristinius
