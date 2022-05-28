@@ -1,4 +1,4 @@
-ack Overflow Annual Developer Survey (2019)
+Stack Overflow Annual Developer Survey (2019)
 
 💡 To better understand and navigate the code, it is recommended to download it and run it on your computer
 
@@ -35,16 +35,28 @@ Matplotlib (3.5.2)
 My goals:
 
 •	Thorough study of the python.
+
 •	Study of data analysis
+
 •	Getting to know Python libraries better
+
 •	Refine my existing skills
+
 •	Acquire new skills and experience
+
 •	Create a new project for my Portfolio
+
+
 For this project, I was interestested in using Stack Overflow data to better understand:
+
 •	What are the distributions of women with respect to country, ethnicity, level of education, etc.
+
 •	What are the most popular types of development/languages.
+
 •	What factors associate with high salary, eg. type of development, education level, etc.?
+
 •	People with what skills earn more?
+
 
 📄 File Descriptions
 Each ipynb file processes specific year data.
