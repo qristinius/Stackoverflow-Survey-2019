@@ -3,7 +3,7 @@ Stack Overflow Annual Developer Survey (2019)
 💡 To better understand and navigate the code, it is recommended to download it and run it on your computer
 
 Table of Contents
-#anry
+
 1.Data sources
 
 2.Tech/Framework
